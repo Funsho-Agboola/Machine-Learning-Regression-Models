@@ -4,6 +4,8 @@
 - learn the relationship of different datasets and 
 - evaluating how well they have come to learn the data
 
+### And we have calculated the R-square score for each to see the Model that best fits the Data
+
 ## List of Datasets the Models trained on:
 - 50_Startups.csv
 - Position_Salaries.csv
